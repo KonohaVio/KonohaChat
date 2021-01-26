@@ -1,4 +1,4 @@
-# Konoha Bot Service
+# Mirai Bot Service
 
 English: Just a bot service for fun. Based on Mirai.
 
