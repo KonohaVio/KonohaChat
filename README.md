@@ -9,8 +9,8 @@ English: Just a bot service for fun. Based on Mirai.
 <当前功能列表>
 [模块：人工智障聊天模式]
 
-蕾姆陪我聊天
-蕾姆来聊天
+陪我聊天
+来聊天
 结束人工智障模式：/退下吧
 
 [模块：无情复读姬]
